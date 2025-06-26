@@ -1,1 +1,1 @@
-# my-new-repository
+первые шаги в гит
